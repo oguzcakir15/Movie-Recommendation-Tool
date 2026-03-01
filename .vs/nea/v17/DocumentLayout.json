@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cakir\\source\\repos\\nea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD98745-3939-4994-81AD-A079475629C9}|nea\\nea.csproj|C:\\Users\\cakir\\source\\repos\\nea\\nea\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD98745-3939-4994-81AD-A079475629C9}|nea\\nea.csproj|solutionrelative:nea\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD98745-3939-4994-81AD-A079475629C9}|nea\\nea.csproj|C:\\Users\\cakir\\source\\repos\\nea\\nea\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD98745-3939-4994-81AD-A079475629C9}|nea\\nea.csproj|solutionrelative:nea\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD98745-3939-4994-81AD-A079475629C9}|nea\\nea.csproj|C:\\Users\\cakir\\source\\repos\\nea\\nea\\hashing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD98745-3939-4994-81AD-A079475629C9}|nea\\nea.csproj|solutionrelative:nea\\hashing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD98745-3939-4994-81AD-A079475629C9}|nea\\nea.csproj|C:\\Users\\cakir\\source\\repos\\nea\\nea\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD98745-3939-4994-81AD-A079475629C9}|nea\\nea.csproj|solutionrelative:nea\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD98745-3939-4994-81AD-A079475629C9}|nea\\nea.csproj|C:\\Users\\cakir\\source\\repos\\nea\\nea\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD98745-3939-4994-81AD-A079475629C9}|nea\\nea.csproj|solutionrelative:nea\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD98745-3939-4994-81AD-A079475629C9}|nea\\nea.csproj|C:\\Users\\cakir\\source\\repos\\nea\\nea\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD98745-3939-4994-81AD-A079475629C9}|nea\\nea.csproj|solutionrelative:nea\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD98745-3939-4994-81AD-A079475629C9}|nea\\nea.csproj|c:\\users\\cakir\\source\\repos\\nea\\nea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD98745-3939-4994-81AD-A079475629C9}|nea\\nea.csproj|solutionrelative:nea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cakir\\source\\repos\\nea\\nea\\Program.cs",
+              "RelativeDocumentMoniker": "nea\\Program.cs",
+              "ToolTip": "C:\\Users\\cakir\\source\\repos\\nea\\nea\\Program.cs",
+              "RelativeToolTip": "nea\\Program.cs",
+              "ViewState": "AgIAAPQDAAAAAAAAAAAuwB4EAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T16:02:47.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "API.cs",
+              "DocumentMoniker": "C:\\Users\\cakir\\source\\repos\\nea\\nea\\API.cs",
+              "RelativeDocumentMoniker": "nea\\API.cs",
+              "ToolTip": "C:\\Users\\cakir\\source\\repos\\nea\\nea\\API.cs",
+              "RelativeToolTip": "nea\\API.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAUwAQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T13:49:07.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hashing.cs",
+              "DocumentMoniker": "C:\\Users\\cakir\\source\\repos\\nea\\nea\\Hashing.cs",
+              "RelativeDocumentMoniker": "nea\\Hashing.cs",
+              "ToolTip": "C:\\Users\\cakir\\source\\repos\\nea\\nea\\Hashing.cs",
+              "RelativeToolTip": "nea\\Hashing.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T14:40:19.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\cakir\\source\\repos\\nea\\nea\\Database.cs",
+              "RelativeDocumentMoniker": "nea\\Database.cs",
+              "ToolTip": "C:\\Users\\cakir\\source\\repos\\nea\\nea\\Database.cs",
+              "RelativeToolTip": "nea\\Database.cs",
+              "ViewState": "AgIAAAUDAAAAAAAAAAAuwC8DAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:36:18.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\cakir\\source\\repos\\nea\\nea\\UserServices.cs",
+              "RelativeDocumentMoniker": "nea\\UserServices.cs",
+              "ToolTip": "C:\\Users\\cakir\\source\\repos\\nea\\nea\\UserServices.cs",
+              "RelativeToolTip": "nea\\UserServices.cs",
+              "ViewState": "AgIAALoDAAAAAAAAAAAuwOQDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:55:33.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\cakir\\source\\repos\\nea\\nea\\Movie.cs",
+              "RelativeDocumentMoniker": "nea\\Movie.cs",
+              "ToolTip": "C:\\Users\\cakir\\source\\repos\\nea\\nea\\Movie.cs",
+              "RelativeToolTip": "nea\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T10:43:51.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\cakir\\source\\repos\\nea\\nea\\User.cs",
+              "RelativeDocumentMoniker": "nea\\User.cs",
+              "ToolTip": "C:\\Users\\cakir\\source\\repos\\nea\\nea\\User.cs",
+              "RelativeToolTip": "nea\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwCIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T14:58:03.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
